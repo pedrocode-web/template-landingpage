@@ -1,0 +1,84 @@
+@media (max-width: 768px) {
+    body {
+        flex-direction: column;
+    }
+
+    .slogan-container {
+        width: 100%;
+        height: auto;
+        padding: 2rem 1rem;
+    }
+
+    .slogan-container img {
+        max-width: 60%;
+    }
+
+    main {
+        width: 100%;
+        padding: 2rem 1rem;
+    }
+
+    .panel-login-container {
+        padding: 1.5rem;
+    }
+
+    .title-page h1 {
+        font-size: 1.5rem;
+        margin-bottom: 1.5rem;
+    }
+
+    form p {
+        margin-bottom: 1rem;
+    }
+
+    input[type="email"],
+    input[type="password"] {
+        padding: 0.7rem 0.9rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .slogan-container {
+        padding: 1.5rem 1rem;
+    }
+
+    .slogan-container img {
+        max-width: 80%;
+    }
+
+    .panel-login-container {
+        padding: 1.2rem;
+    }
+
+    .title-page h1 {
+        font-size: 1.3rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .terms label {
+        font-size: 0.8rem;
+    }
+    
+    .login-link {
+        font-size: 0.85rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .terms label {
+        font-size: 0.75rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .register-link {
+        font-size: 0.85rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .register-link {
+        font-size: 0.8rem;
+    }
+}

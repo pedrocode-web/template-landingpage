@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Seu Site - Login</title>
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="mobile.css">
+        <link rel="shortcut icon" href="Assets/favicon.png" type="image/x-icon">
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet"/>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js"></script>
+    </head>
+
+    <body>
+        <section class="slogan-container">
+            <img src="Assets/slogan.png" alt="">
+        </section>
+
+        <main>
+            <section class="panel-login-container">
+                <div class="title-page">
+                    <h1>Account Login</h1>
+                </div>
+
+                <form action="#" method="get" target="_blank" autocomplete="off">
+                    <p>
+                        <label for="e-mail">Digite o seu e-mail:</label>
+                        <input type="email" id="e-mail" name="email" placeholder="seuemail@gmail.com" required>
+                    </p>
+                    <p>
+                        <label for="password">Digite sua senha:</label>
+                        <input type="password" id="password" name="password" placeholder="Digite a sua senha" required>
+                    </p>
+                    <div class="checkbox-container">
+                        <input type="checkbox" id="remember" name="remember" value="#">
+                        <span class="checkbox-custom"></span>
+                        <label for="remember">Salvar login?</label>
+                    </div>
+                    <button type="submit">Iniciar sessão</button>
+                    <div class="register-link">
+                        Não possui uma conta? <a href="register.html">Registre-se</a>
+                    </div>
+                    <div class="backpage-link">
+                        Retornar para a <a href="../inicio/index.html">Página Principal</a>.
+                    </div>
+                </form>
+            </section>
+        </main>
+
+        <script src="script.js"></script>
+    </body>
+</html>
