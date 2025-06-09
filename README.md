@@ -10,7 +10,8 @@ Este projeto é uma landing page completa voltada para lojas ou negócios que qu
 - Área do Cliente (tela de login e painel simples)
 
 ## 🚫 Aviso
-Este projeto é apenas para fins **educacionais e pessoais**. Não é permitido utilizar comercialmente sem autorização.
+1. Este projeto é apenas para fins **educacionais e pessoais**. Não é permitido utilizar comercialmente sem autorização.
+2. Este projeto é apenas FRONT-END, não foi implementado qualquer vínculo BACK-END.
 
 ---
 
@@ -42,7 +43,8 @@ This project is a complete landing page designed for stores or businesses that w
 - Client Area (login screen and simple dashboard)
 
 ## 🚫 Notice
-This project is intended for **educational and personal use only**. Commercial use is not allowed without permission.
+1. This project is intended for **educational and personal use only**. Commercial use is not allowed without permission.
+2. This project is only FRONT-END, no BACK-END link was implemented.
 
 ---
 
