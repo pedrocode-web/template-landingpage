@@ -26,7 +26,7 @@ Este projeto é distribuído gratuitamente apenas para fins **educacionais e pes
 - Os créditos ao autor original sejam mantidos;
 - O uso continue sendo não comercial.
 
-> ©️2025 - Todos os direitos reservados.
+©️ 2025 - Todos os direitos reservados.
 
 ---
 
@@ -58,4 +58,4 @@ This project is distributed for free and intended for **educational and personal
 - Credit to the original author is maintained;
 - The usage remains non-commercial.
 
-> ©️2025 – All rights reserved.
+©️ 2025 – All rights reserved.
