@@ -27,3 +27,35 @@ Este projeto é distribuído gratuitamente apenas para fins **educacionais e pes
 - O uso continue sendo não comercial.
 
 > ©️2025 - Todos os direitos reservados.
+
+---
+
+# Landing Page for Store (with Client Area)
+
+This project is a complete landing page designed for stores or businesses that want to showcase their services in a simple and professional way. It was developed by me during my study routine, and I found the result nice enough to share. It might be useful for those who want to study or get inspired.
+
+## Included Sections
+- About the store
+- Features and highlights
+- Plans or pricing
+- Contact with form
+- Client Area (login screen and simple dashboard)
+
+## 🚫 Notice
+This project is intended for **educational and personal use only**. Commercial use is not allowed without permission.
+
+---
+
+## 📝 License
+
+This project is distributed for free and intended for **educational and personal use only**.
+
+🔒 **The following is prohibited**:
+- Using this code, in whole or in part, in commercial projects;
+- Reselling, renting, monetizing, or profiting from this code in any way;
+
+✏️ Modifications are allowed, as long as:
+- Credit to the original author is maintained;
+- The usage remains non-commercial.
+
+> ©️2025 – All rights reserved.
