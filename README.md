@@ -6,7 +6,7 @@ Este projeto é uma landing page completa voltada para lojas ou negócios que qu
 - Sobre a loja
 - Recursos e diferenciais
 - Planos ou preços
-- Contato com formulário
+- Contato
 - Área do Cliente (tela de login e painel simples)
 
 ## 🚫 Aviso
@@ -39,7 +39,7 @@ This project is a complete landing page designed for stores or businesses that w
 - About the store
 - Features and highlights
 - Plans or pricing
-- Contact with form
+- Contact
 - Client Area (login screen and simple dashboard)
 
 ## 🚫 Notice
